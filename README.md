@@ -43,7 +43,6 @@ and font_awesome_flutter. Uses latest version of flutter (3.1.3), flutter_bloc (
 
 ## How this looks
 
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/1.png)
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/2.png)
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/3.png)
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/4.png)
@@ -54,6 +53,10 @@ and font_awesome_flutter. Uses latest version of flutter (3.1.3), flutter_bloc (
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/9.png)
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/10.png)
  
+ <p align="center">
+<img src=https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/1.png" height="100" alt="Flutter Bloc Package" />
+</p>
+
 ## Contributing
 
 PRs are welcome
