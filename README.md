@@ -45,39 +45,39 @@ and font_awesome_flutter. Uses latest version of flutter (3.1.3), flutter_bloc (
 
  
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/1.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/1.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/2.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/2.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/3.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/3.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/4.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/4.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/5.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/5.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/6.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/6.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/7.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/7.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/8.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/8.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 <p align="center">
-    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/9.png" height="100" alt="Flutter Bloc Package" />
+    <img src="https://raw.github.com/rahuljograna/flutter_bloc_firebase_crud/master/screenshot/9.png" height="500" alt="Flutter Bloc Package" />
 </p>
 
 ## Contributing
