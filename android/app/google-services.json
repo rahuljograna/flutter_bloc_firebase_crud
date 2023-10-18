@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864060408584",
+    "project_id": "flutter-bloc-firebase-cr-34925",
+    "storage_bucket": "flutter-bloc-firebase-cr-34925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864060408584:android:fcd81a5ab91b05415c62bd",
+        "android_client_info": {
+          "package_name": "io.rahul.flutter.bloc.firebase.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkHdtUKZ4aAVs6-FKV78KhIXHzvb7uNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
